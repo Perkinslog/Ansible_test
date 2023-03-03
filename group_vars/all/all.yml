@@ -1,9 +1,3 @@
-#service_account_email: playable@fair-solution-173518.iam.gserviceaccount.com
-#credentials_file: service_account.json
-#project_id: fair-solution-173518
-
-service_account_email: ansible@udemy-ansible-assignment.iam.gserviceaccount.com
-credentials_file: udemy-ansible-assignment-fb21ec2e17c4.json
 project_id: udemy-ansible-assignment
 
 machine_type: n1-standard-1
